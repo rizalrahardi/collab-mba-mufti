@@ -1,0 +1,1 @@
+Dalam tutorial ini, kita akan membahas GIT, salah satu VCS yang paling sering digunakan. Selain cara menggunakan GIT, Anda juga akan mempelajari dasar GIT seperti cara install GIT di sistem yang berbeda dan bagaimana cara menggunakannya.
