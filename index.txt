@@ -1,0 +1,3 @@
+Version control system sangat bermanfaat untuk mencegah developer mengalami kesulitan dalam menganalisis perubahan & bekerja dengan kode yang diakses bersama-sama. Sederhananya, VCS adalah prinsip penting dalam sistem manajemen konfigurasi software yang berkaitan dengan kebutuhan manajemen perubahan dalam project.
+
+Perubahan/revisi/update yang dibuat bisa dikenali melalui kode atau angka. Informasi seperti catatan waktu dan identitas yang membuat perubahan juga tetap ada.
